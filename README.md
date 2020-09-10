@@ -1,6 +1,6 @@
 # Autonomous Surveillance Rover For Weapon Detection
-MSc Project Artificial Intelligence. Autonomous Surveillance Rover for Real-Time Weapon Detection. 
-Built a rover using a range of sensors for autonomous line following and object detection.
+I build an Autonomous Surveillance Rover for Real-Time Weapon Detection for my MSc in Artificial Intelligence project.
+This was done using a range of sensors for autonomous line following and object detection.
 
 - Designed and created an autonomous rover to assist authorities and help reduce the police response time when or before a potential crime happens.  A model surveillance rover with a robotic camera arm was built with the ability to: roam an area via autonomous line following, detect guns in its surroundings, and be controlled remotely over the internet. 
 
