@@ -8,6 +8,9 @@ This was done using a range of sensors for autonomous line following and object 
 
 - Used TensorFlow and python to train a SSD Mobilenet v2 Neural Network to detect weapons in real-time with highest possible accuracy on  a Raspberry Pi.
 
+
+Click the below image to see the entire final presentation video of the project.
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=ifuL-X-k3DY&t=1001s"><img src="https://github.com/HarrishanSK/AutonomousSurveillanceRoverForWeaponDetection/blob/master/display_image.png" alt="IMAGE ALT TEXT"></a>
 </div>
