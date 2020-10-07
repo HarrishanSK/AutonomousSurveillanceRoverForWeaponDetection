@@ -12,7 +12,7 @@ This was done using a range of sensors for autonomous line following and object 
 Click the below image to see the entire final presentation video of the project.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ifuL-X-k3DY&t=1001s"><img src="https://github.com/HarrishanSK/AutonomousSurveillanceRoverForWeaponDetection/blob/master/display_image.png" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=lnv6VbRcyk8&t=72s"><img src="https://i.ytimg.com/an_webp/lnv6VbRcyk8/mqdefault_6s.webp?du=3000&sqp=CKO0-PsF&rs=AOn4CLBQjOoEtmx1uDlLO08DL3BV7TQrSg" alt="IMAGE ALT TEXT"></a>
 </div>
 
 Code will be uploaded as soon as the dissertation has been marked.
